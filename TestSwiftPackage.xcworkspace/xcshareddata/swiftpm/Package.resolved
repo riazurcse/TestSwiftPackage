@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "MyDemoPackage",
+        "repositoryURL": "https://github.com/riazurcse/DemoSwiftPackage.git",
+        "state": {
+          "branch": null,
+          "revision": "558eea6c37c81de8b06608c2462aee5ada54ec8e",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
